@@ -10,7 +10,7 @@ namespace HomeWorkOOP2
         {
             Library library = new Library();
             library.CreateBook("Android.Программирование для профессионалов", "Билл Филлипс", 100, FormatBook.fb2);
-            library.CreateBook("Программирование для Android", "Денис Колисниченко", 100, FormatBook.paper);
+            library.CreateBook("Программирование для Android", "Денис Колисниченко", 1000, FormatBook.paper);
             library.CreateBook("Программирование для Android 5", "Билл Филлипс", 200, FormatBook.paper);
             library.CreateBook("Программирование для Android 7", "Билл Филлипс", 200, FormatBook.paper);
             library.CreateBook("Android.Программирование для профессионалов 2", "Билл Филлипс", 100, FormatBook.fb2);
